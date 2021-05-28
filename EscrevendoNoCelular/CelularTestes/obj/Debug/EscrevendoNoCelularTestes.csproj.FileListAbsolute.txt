@@ -1,0 +1,17 @@
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\CelularTestes.dll
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\CelularTestes.pdb
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\EscrevendoNoCelular.exe
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\EscrevendoNoCelular.pdb
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\EscrevendoNoCelular.exe.config
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\obj\Debug\EscrevendoNoCelularTestes.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\obj\Debug\EscrevendoNoCelularTestes.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\obj\Debug\EscrevendoNoCelularTestes.csproj.CopyComplete
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\obj\Debug\CelularTestes.dll
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\CelularTestes\obj\Debug\CelularTestes.pdb

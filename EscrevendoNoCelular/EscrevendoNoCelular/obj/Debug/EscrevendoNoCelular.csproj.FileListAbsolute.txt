@@ -1,0 +1,7 @@
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\EscrevendoNoCelular\bin\Debug\EscrevendoNoCelular.exe.config
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\EscrevendoNoCelular\bin\Debug\EscrevendoNoCelular.exe
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\EscrevendoNoCelular\bin\Debug\EscrevendoNoCelular.pdb
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\EscrevendoNoCelular\obj\Debug\EscrevendoNoCelular.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\EscrevendoNoCelular\obj\Debug\EscrevendoNoCelular.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\EscrevendoNoCelular\obj\Debug\EscrevendoNoCelular.exe
+C:\Users\Carlos\source\repos\EscrevendoNoCelular\EscrevendoNoCelular\obj\Debug\EscrevendoNoCelular.pdb
